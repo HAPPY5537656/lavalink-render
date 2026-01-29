@@ -1,0 +1,10 @@
+server:
+  port: 2333
+
+lavalink:
+  server:
+    password: "strongpassword123"
+
+logging:
+  level:
+    root: INFO
